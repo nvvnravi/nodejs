@@ -1,0 +1,17 @@
+{
+  "name": "broadcast",
+  "version": "0.0.1",
+  "description": "CLI utility for broadcast",
+  "main": "broadcast.js",
+  "dependencies": {
+    "adm-zip": "git://github.com/cthackers/adm-zip.git",
+    "commander": "^2.16.0",
+    "yauzl": "^2.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "broadcast"
+  },
+  "author": "ravi nistala",
+  "license": "ISC"
+}
